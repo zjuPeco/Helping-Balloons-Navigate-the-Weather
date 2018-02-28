@@ -24,7 +24,7 @@ Run all the codes in
 
 1. Use ['i. PointsFinder.py'] and ['j. Point_finder_Django'] to get the guide points.
 
-(if you want to use ['j. Point_finder_Django'], you should put ['CityData.csv'] in the ['j. Point_finder_Django/data'] directory and put the rain matrix and wind matrix, which are generated in the Regression part, in ['j. Point_finder_Django/data/day[6,7,8,9,10]'])
+(if you want to use ['j. Point_finder_Django'], you should put ['CityData.csv'] in the ['j. Point_finder_Django/data'] directory and put the rain matrix and wind matrix, which are generated in the Regression part, in ['j. Point_finder_Django/data/day[6,7,8,9,10]'], name them ['rain_matrix.pickle'] and ['wind_matrix.pickle'])
 
 2. Run ['k. Path Searching.ipynb'] and ['l. Submit.ipynb'] to get the final results
 
