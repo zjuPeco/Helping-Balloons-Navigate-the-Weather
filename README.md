@@ -28,7 +28,9 @@ Run all the codes in
 
 2. Run ['k. Path Searching.ipynb'] and ['l. Submit.ipynb'] to get the final results
 
-See [documentations]( https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.7f3f311frqsV4b&raceId=231622&postsId=4259) for more details.
+See [documentation]( https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.7f3f311frqsV4b&raceId=231622&postsId=4259) for more details.
+
+A Chineses version of documentation is [here](http://blog.csdn.net/zjupeco/article/details/79423397).
 
 
 
